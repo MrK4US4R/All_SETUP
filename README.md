@@ -18,10 +18,10 @@ pkg install git
 
  pip2 install requests bs4
 
-rm -rf Mr-KT_oK
+rm -rf Mr_KT-OK
 
-git clone https://github.com/MrK4US4R/Mr_KT_oK
+git clone https://github.com/MrK4US4R/Mr_KT-OK
 
-cd Mr-KT_oK
+cd Mr_KT-OK
 
-python Mr-KT_oK.py
+python Mr_KT-OK.py
