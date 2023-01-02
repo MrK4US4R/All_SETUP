@@ -8,6 +8,8 @@
 
 # Installation
 
+- `pkg install git`
+
 - `rm -rf All_SETUP`
 
 - `git clone https://github.com/MrK4US4R/All_SETUP`
